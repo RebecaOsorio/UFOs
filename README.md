@@ -6,3 +6,4 @@ During the module we worked in the construction of a table by:
 * Add a date-filter function, and use d3 to listen the button event.
 *  Use Bootstrap Grid to customize the page.
 
+![HTML Final Module](https://github.com/RebecaOsorio/UFOs/blob/main/images/HTML/Final%20Module%20HTML.png)
